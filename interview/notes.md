@@ -1,8 +1,8 @@
 # Interview Notes
 
 - **Ngày:** 03/10/2026
-- **Người phỏng vấn:** Chu Thuỳ Dương
-- **Ứng viên / Người tham gia:** Phương Nam
+- **Người phỏng vấn:** Chu Thuỳ Dương - 2A202602660
+- **Ứng viên / Người tham gia:** Chử Trần Phương Nam - 2A202602675
 - **Vị trí / Chủ đề:** Người tự học ngoại ngữ (Tiếng Anh, Tiếng Trung) chuẩn bị hồ sơ học bổng du học Trung Quốc; Khảo sát thói quen ghi chép, lưu trữ và tổng hợp kiến thức khi tự học trực tuyến.
 - **File ghi âm:** [recording.m4a](file:E:\VIN_AI\Track1_Day17\interview\recording.m4a) (Thời lượng: ~4 phút)
 
